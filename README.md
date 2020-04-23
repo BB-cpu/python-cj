@@ -1,0 +1,2 @@
+# python-cj
+learning python
